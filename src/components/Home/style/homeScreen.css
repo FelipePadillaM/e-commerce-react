@@ -19,7 +19,7 @@
 .card-product__header {
   height: 200px;
   padding: 20px;
-  border-bottom: 1px solid var(--border-color);
+  /* border-bottom: 1px solid var(--border-color); */
   position: relative;
 }
 .card-product__img {
